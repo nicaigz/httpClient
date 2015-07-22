@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/com/clzhang/sample/net/HttpClientSample1.java=GBK
+encoding//src/http/client/BaiduParserHtml.java=GBK
+encoding//src/http/client/BaiduProxyClient.java=GBK
+encoding//src/http/client/DomainParserHtml.java=GBK
+encoding//src/http/client/DomainProxyClient.java=GBK
+encoding//src/http/client/Savefile.java=GBK
+encoding/<project>=GBK
